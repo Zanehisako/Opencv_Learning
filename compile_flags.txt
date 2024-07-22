@@ -1,0 +1,1 @@
+-IC:\Users\yassi\scoop\apps\opencv\3.4.16\include
